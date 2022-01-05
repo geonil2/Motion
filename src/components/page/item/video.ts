@@ -27,5 +27,3 @@ export class VvideoComponent extends BaseComponent<HTMLElement> {
         return url;
     }
 }
-
-// <iframe width="560" height="315" src="https://www.youtube.com/embed/HTewyS8hq0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
