@@ -1,6 +1,6 @@
 import { BaseComponent } from "../../component.js";
 
-export class VvideoComponent extends BaseComponent<HTMLElement> {
+export class VideoComponent extends BaseComponent<HTMLElement> {
     constructor(title: string, url: string) {
         super(`<section class="video">
                 <div class="video_player">
